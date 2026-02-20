@@ -4,3 +4,8 @@ background-color:#4682B4
 color:#2F4F4F 
 
 }
+
+.carnaval{
+    display: flex;
+    font-size: medium;
+}
